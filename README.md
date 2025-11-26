@@ -1,2 +1,4 @@
 ## HI my friend
-```print("hello world")```
+```
+python
+print("hello world")```
