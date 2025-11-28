@@ -1,4 +1,4 @@
-## HI my friend
+## 안녕
 
 ```python
 print("hello world")
