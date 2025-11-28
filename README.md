@@ -1,6 +1,4 @@
-## 안녕
+### 리눅스 명령어 공부
 
-```python
-print("hello world")
 
-### heheheheh
+---
